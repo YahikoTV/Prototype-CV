@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "ketchum";
+    src:url("ketchum.otf");
+}
+
+body {
+    background-color: darkgoldenrod; background: darkgoldenrod(0, 128, 0, 0.3);
+    background-image: url("../PokemonFR_gif_1614941058479144960_AdobeExpress.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Ketchum";
+
+    background-color: rgb(20, 20, 20);
+    font-family: "Ketchum";
+    color: rgb(0, 0, 0);
+    }
